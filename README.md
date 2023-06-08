@@ -1,7 +1,7 @@
 # SQL_Boot_camp
 00 - concat, select in select;\
 01 - join;\
-02 - join;\
+02 - join, 02.02 - coalesce;\
 03 - insert/update/delete;\
 04 - view/ materialized view;\
 05 - index;\
