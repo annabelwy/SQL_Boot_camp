@@ -8,4 +8,4 @@
 06 - relational table, ROW_NUMBER( ) OVER ( ) AS id, constraint rules;\
 07 - group by, count, max, min;\
 08 - transactions and isolation levels;\
-09 - trigger and trigger function;\
+09 - trigger and trigger function, recursive func;\
